@@ -1,0 +1,12 @@
+{
+  "name": "custom_vision_training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/cognitiveservices-customvision-prediction": "^5.1.2",
+    "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "dotenv": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}
