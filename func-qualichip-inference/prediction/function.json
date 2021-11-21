@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "chipImage",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "cropped-images/{name}",
+      "connection": "inputstorage"
+    }
+  ]
+}
